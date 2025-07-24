@@ -20,4 +20,6 @@ RESULTS: Plot will show curves for TADR (y-axis in cubic meters per second and i
 RESULTS: Console will show at the bottom line TADR original peaks (e.g., 7.487196e+07) in cubic meters
          Code can also 'smooth' the curves (read TADR (smoothed peaks) value (e.g., 8.505223e+07) in cubic meters
 NOTE 1: It is expected for 'smoothed TADR peaks' approach to produce higher erupted volume values.
+NOTE 2: Compositional input parameters and background temperatures are target dependent and must be adjusted accordingly.
+For example, compositional parameters/background temps for Mt. Etna are different from Nyamuragira and must be adjusted accodingly. 
 ////////////
